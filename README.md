@@ -23,3 +23,4 @@
 | ---- | ----------------------------------------------- | ----------------- | ---------------------------------------------------- |
 | 1    | [junngo](https://github.com/junngo)             | fast api, rust    | 사람들에게 도움이 되는 서비스를 만들거에요.          |
 | 2    | [YangHyeonBin](https://github.com/YangHyeonBin) | JavaScript, React | 깃허브로 능숙하게 협업할 줄 아는 개발자가 될 거예요! |
+| 9    | [woogicoding](https://github.com/woogicoding)   | Python, Java     | 깃허브 공부를 열심히 할 거예요.

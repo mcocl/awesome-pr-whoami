@@ -19,7 +19,6 @@
 
 # Who Am I
 
-| 순번 | Github ID                                       | 관심 기술          | 하고 싶은 말                                         |
 | ---- | ----------------------------------------------- | ------------------ | ---------------------------------------------------- |
 | 1    | [junngo](https://github.com/junngo)             | fastapi, rust      | 사람들에게 도움이 되는 서비스를 만들거에요.          |
 | 2    | [YangHyeonBin](https://github.com/YangHyeonBin) | JavaScript, React  | 깃허브로 능숙하게 협업할 줄 아는 개발자가 될 거예요! |
@@ -28,3 +27,4 @@
 | 5    | [aroong](https://github.com/Aroong)             | Spring, Java       | 깃 강의 잘 들었습니다!                               |
 | 6    | [kje4403p](https://github.com/kje4403p)         | Java,sql           | 훌륭한 강의                                          |
 | 7    | [Leecw0610](https://github.com/Leecw0610)       | Python, AI         | 강의 감사합니다.                                     |
+| 29   | [kimyejunnn](https://github.com/kimyejunnn)     | html,css,javascript| 열심히 해보겠습니다!                                 |

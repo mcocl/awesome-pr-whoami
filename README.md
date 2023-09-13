@@ -35,4 +35,5 @@
 | 12   | [JWrnd](https://github.com/JWrnd)                   | Python, Medical AI             | 잘 배우고 갑니다. 고맙습니다.                        |
 | 13   | [gucciforce](https://github.com/gucciforce)         | java                           | 감사합니다 잘 배웠습니다.                            |
 | 14   | [ssu](https://github.com/ssu)                       | Spring                         | 좋은 강의 감사합니다.                                |
-| 15   | [yougod](https://github.com/yousincha)              | React, Node.js                 | 덕분에 잘 배웠습니다! 감사합니다.                    |
+| 15   | [yougod](https://github.com/yousincha)              | React, Node.js                 | 덕분에 배웠습니다! 감사합니다.                    |
+| 16   | [kimgt0128](https://github.com/kimgt0128)           | React, AI, 서버                | 너무 잘 배웠습니다! 감사합니다.                    |

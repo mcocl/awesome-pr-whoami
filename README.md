@@ -44,3 +44,4 @@
 | 21   | [leechimins](https://github.com/leechimins)         | C, Python, Game Programming    | 깃허브 너무 어렵네요... 열심히 연습해야겠어요!!      |
 | 22   | [seoeunbi25](https://github.com/seoeunbi25)         | Python, C++                    | 좋은 강의 감사합니다!! 
 | 23   | [JaeEun1016](https://github.com/JaeEun1016)           | React, Node.js                 | 파이팅
+| 97   | [lan2el](https://github.com/lan2el)                 | Python  | 상세한 강의 감사합니다 |

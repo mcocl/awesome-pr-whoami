@@ -20,7 +20,7 @@
 # Who Am I
 
 | 순번 | Github ID                                           | 관심 기술                      | 하고 싶은 말                                         |
-| 25-- | [almaeng12](https://github.com/almaeng12)---------- | Python, FFT ------------------ | 깃허브 배우는 게 어렵지만 재밌습니다!-------------- |
+| ---- | --------------------------------------------------- | ------------------------------ | ------------------------------------------------ |
 | 1    | [junngo](https://github.com/junngo)                 | fastapi, rust                  | 사람들에게 도움이 되는 서비스를 만들거에요.          |
 | 2    | [YangHyeonBin](https://github.com/YangHyeonBin)     | JavaScript, React              | 깃허브로 능숙하게 협업할 줄 아는 개발자가 될 거예요! |
 | 3    | [yunseong3736](https://github.com/yunseong3736)     | Django, React, CSE             | 강의 잘 들었습니다. - 밸류어블피플 CTO               |
@@ -45,3 +45,4 @@
 | 22   | [seoeunbi25](https://github.com/seoeunbi25)         | Python, C++                    | 좋은 강의 감사합니다!! 
 | 23   | [JaeEun1016](https://github.com/JaeEun1016)           | React, Node.js                 | 파이팅
 | 24   | [spacetravelerJ](https://github.com/spacetravelerJ) | c++, python                    | git 강의 감사합니다. 열심히 배워야겠어요             |
+| 25-- | [almaeng12](https://github.com/almaeng12)---------- | Python, FFT ------------------ | 깃허브 배우는 게 어렵지만 재밌습니다!-------------- |

@@ -45,4 +45,4 @@
 | 22   | [seoeunbi25](https://github.com/seoeunbi25)         | Python, C++                    | 좋은 강의 감사합니다!! 
 | 23   | [JaeEun1016](https://github.com/JaeEun1016)           | React, Node.js                 | 파이팅
 | 24   | [spacetravelerJ](https://github.com/spacetravelerJ) | c++, python                    | git 강의 감사합니다. 열심히 배워야겠어요             |
-| 25-- | [almaeng12](https://github.com/almaeng12)---------- | Python, FFT ------------------ | 깃허브 배우는 게 어렵지만 재밌습니다!-------------- |
+| 25   | [almaeng12](https://github.com/almaeng12)           | Python, FFT                    | 깃허브 배우는 게 어렵지만 재밌습니다!                           |

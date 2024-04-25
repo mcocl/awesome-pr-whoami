@@ -45,3 +45,4 @@
 | 22   | [seoeunbi25](https://github.com/seoeunbi25)         | Python, C++                    | 좋은 강의 감사합니다!! 
 | 23   | [JaeEun1016](https://github.com/JaeEun1016)           | React, Node.js                 | 파이팅
 | 24   | [spacetravelerJ](https://github.com/spacetravelerJ) | c++, python                    | git 강의 감사합니다. 열심히 배워야겠어요             |
+| 25   | [summerhazeent](https://github.com/summerhazeent)   | c++, c#                 | 강의 잘 듣고 있어요. 감사합니다.        |

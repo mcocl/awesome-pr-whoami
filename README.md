@@ -46,3 +46,5 @@
 | 23   | [JaeEun1016](https://github.com/JaeEun1016)           | React, Node.js                 | 파이팅
 | 24   | [spacetravelerJ](https://github.com/spacetravelerJ) | c++, python                    | git 강의 감사합니다. 열심히 배워야겠어요             |
 | 25   | [juyoung07](https://github.com/juyoung07)           | Java, Spring, Node.js, Kotlin  | 유명한 앱을 개발하는 개발자가 됩겁니다. 다들 꿈을 이루길! |
+| 26   | [moohon75](https://github.com/moohon75)           | C, C#, Python  | Git을 편하게 사용하는 그날까지.. 화이팅!!! |
+

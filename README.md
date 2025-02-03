@@ -13,7 +13,7 @@
 
 - 작업 브랜치 규칙: `issueID`-브랜치 이름 (e.x, `3-added-github-id`)
 - 순번과 Github ID는 입력이 필수에요. (관심 기술, 하고 싶은 말은 생략 가능)
-- Github ID 필드 작성 예시: `[junngo](https://github.com/junngo)`
+- Github ID 필드 작성 예시: `[jun06-kim](https://github.com/junngo)`
 - 생략 필드는 하이픈(`-`) 문자를 입력해주세요.
 - PR 제출 후 리뷰가 진행이 돼요. merge 되기 전에 수정과 rebase가 필요하실 수 있어요.
 
@@ -48,3 +48,4 @@
 | 25   | [juyoung07](https://github.com/juyoung07)           | Java, Spring, Node.js, Kotlin  | 유명한 앱을 개발하는 개발자가 됩겁니다. 다들 꿈을 이루길! |
 | 26   | [pjh38](https://github.com/pjh38)                   | python                         | 좋은 강의 감사합니다.       |
 | 27   | [hwanghb](https://github.com/hwanghb)               | Python, C++                    | 좋은 강의 너무 감사합니다! |
+| 28   | [jun06-kim](https://github.com/jun06-kim)           | python,c++, Game programming   | 좋은 강의 감사합니다. 열심히 연습하겠습니다.
